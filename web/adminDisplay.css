@@ -1,0 +1,41 @@
+
+
+nav
+{
+    background:#5F0000;
+}
+
+body
+{
+    background: black;
+}
+
+table,th,td
+{
+    border:2px solid maroon;
+}
+
+.nowshowing
+{
+  position: absolute;
+  width: 400px;
+  height: 280px;
+  left:300px;
+  top: 250px;
+  
+  border: 1px solid red;
+}
+
+.upcoming
+{
+    
+
+  position: absolute;
+  width: 400px;
+  height: 280px;
+  left:1199px;
+  top: 250px;
+  
+  border: 1px solid red;
+
+}
