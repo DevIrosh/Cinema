@@ -1,0 +1,49 @@
+
+
+nav
+{
+    background:#5F0000;
+}
+
+body
+{
+   background: black;
+   position: absolute;
+background-position: center;
+background-size: cover;
+margin:0;
+padding:0;
+}
+
+.container
+{
+  position: absolute;
+  width: 580px;
+  height: 580px;
+  left:300px;
+  top: 250px;
+  
+  border: 1px solid red;
+}
+
+table tr td:empty
+{
+    width:50px;
+}
+
+table tr td
+{
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.upcoming
+{
+  position: absolute;
+  width: 580px;
+  height: 580px;
+  left:1199px;
+  top: 250px;
+  
+  border: 1px solid red;
+}

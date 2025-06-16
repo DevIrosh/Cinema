@@ -1,0 +1,36 @@
+
+body
+{
+background: #5F0000;    
+position: absolute;
+background-position: center;
+background-size: cover;
+margin:0;
+padding:0;
+
+
+      
+}
+ 
+.loginbox
+{
+    
+  position: absolute;
+  width: 700px;
+  height: 580px;
+  left:630px;
+  top: 150px;
+  background:linear-gradient(179.99deg, rgba(84, 72, 72, 0) -14.88%, #000000 29.84%);
+  border: 1px solid black;
+
+}
+ 
+.avatar
+{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    position: relative;
+    top:-15%;
+    left:40%;
+}
